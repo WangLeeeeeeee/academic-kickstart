@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Design and analysis of a large-range precision micromanipulator"
+title: "Motion Control of a 4 DOF Cable Driven Upper Limb Exoskeleton"
 authors: []
 date: 2019-05-04T14:07:01+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-09-12T14:07:01+08:00
+publishDate: 2019-05-04T14:07:01+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: "Smart Materials and Structures"
+abstract: "14th IEEE Conference on Industrial Electronics and Applications(ICIEA 2019)"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://iopscience.iop.org/article/10.1088/1361-665X/ab4413"
-url_code: 
+url_pdf:
+url_code: "http://github.com/WangLeeeeeeee/UpperLimbConsole"
 url_dataset:
 url_poster:
 url_project:
-url_slides: 
+url_slides: "ICIEA.pptx"
 url_source:
-url_video: 
+url_video: "https://www.youtube.com/watch?v=GKDJucBS2GE&feature=youtu.be"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
